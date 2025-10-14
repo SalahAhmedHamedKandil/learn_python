@@ -1,0 +1,1 @@
+myage=int(nput("my age is "))
