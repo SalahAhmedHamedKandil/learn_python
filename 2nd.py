@@ -53,7 +53,7 @@ myset2={1,2,3,4,5,6,7,8,9,10}
 print(f"my set 1 is {myset2}")
 myset1.clear()
 print(myset1)
-print(f"myset1.union(myset2)= {myset1.union(myset2)}")
-yyy
+print(f"print(myset1.union(myset2))= {myset1.union(myset2)}")
+
 
 
