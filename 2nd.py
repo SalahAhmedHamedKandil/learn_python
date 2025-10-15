@@ -45,7 +45,7 @@ print(f"the position of the number is {mytuple3.index(a)}") #give you the first 
 print(f"in my tuble three when we use 'index' give\
  us 1 because it take the first index  ")
 # ------------- set ---------------
-print(" set not ordered and imdex")
+print(" set not ordered and index")
 myset1={"salah","ahmed",27}
 print(f"my set 1 is {myset1}")
 
